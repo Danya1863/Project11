@@ -78,9 +78,9 @@ void Student::Print()
 
 int main()
 {
-	Book obj1("Оружие Вермахта", 420);
+	Book obj1("Orudie Vermahta", 420);
 	obj1.Print();
 	cout << endl;
-	Student obj2("Hans", 3500, "Оружие Вермахта", 420);
+	Student obj2("Hans", 3500, "Orudie Vermahta", 420);
 	obj2.Print();
 }
